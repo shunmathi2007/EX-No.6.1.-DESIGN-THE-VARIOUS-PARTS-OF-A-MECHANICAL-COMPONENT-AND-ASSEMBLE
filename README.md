@@ -66,3 +66,5 @@ If the components do not fit properly into the slots, it can be moved into the s
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
+
+<img width="781" height="561" alt="SHUNMATHI EXERCISE 6" src="https://github.com/user-attachments/assets/5fecc443-2a7b-4b23-aba9-8b3160ece0b2" />
